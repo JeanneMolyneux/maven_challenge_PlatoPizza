@@ -1,6 +1,8 @@
 # maven_challenge_PlatoPizza
 This repo contains the file for my entry into the Maven Analytics Pizza Challenge!
 
+To see a screenshot of the dashboard check out the plato_pizza_dashboard.png file
+
 Details can be found here: https://www.mavenanalytics.io/blog/maven-pizza-challenge
 
 I created a small single page dashboard in Power BI and tried to answer the following prompts. 
